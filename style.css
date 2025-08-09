@@ -720,6 +720,9 @@ strong {
     font-family: work sans; 
     font-size: 15px; 
     color: rgb(14, 0, 75);
+    text-align: justify;
+    text-justify: inter-word;
+    hyphens: auto;
   }
 
   .bizcont2 {
@@ -743,7 +746,10 @@ strong {
   .pword {
     margin-top: 10px; 
     margin-left: 5px; 
-    font-family:work sans;  
+    font-family:work sans;
+    text-align: justify;
+    text-justify: inter-word;
+    hyphens: auto;
     line-height: 20px; 
     font-weight: 200; 
     color: rgb(34, 0, 31); 
@@ -912,6 +918,7 @@ strong {
     line-height: 10px;
 
   }
+
 
 
 
