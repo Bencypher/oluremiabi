@@ -266,7 +266,7 @@ body {
   font-size: 16px;
   text-align: justify;
   text-justify: inter-word;
-  margin-right: 20px;
+  margin-right: 50px;
   hyphens: auto;
   color: #000;
   line-height: 25px;
@@ -280,7 +280,7 @@ body {
   line-height: 25px;
   text-align: justify;
   text-justify: inter-word;
-  margin-right: 20px;
+  margin-right: 50px;
   hyphens: auto;
 }
 
@@ -909,5 +909,6 @@ strong {
     line-height: 10px;
 
   }
+
 
 
