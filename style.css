@@ -264,6 +264,8 @@ body {
   margin-left: 210px;
   font-family:verdana;
   font-size: 16px;
+  text-align: justify;
+  text-justify: inter-word;
   color: #000;
   line-height: 25px;
 }
@@ -274,6 +276,8 @@ body {
   font-size: 16px;
   color: #000;
   line-height: 25px;
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 strong {
@@ -901,3 +905,4 @@ strong {
     line-height: 10px;
 
   }
+
