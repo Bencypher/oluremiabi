@@ -356,7 +356,7 @@ strong {
  .cont {
     position: relative;
     background: scroll;
-    background-image: url(grad2.jpg);
+    background-image: url('grad2.jpg');
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -912,6 +912,7 @@ strong {
     line-height: 10px;
 
   }
+
 
 
 
