@@ -299,12 +299,15 @@ strong {
     margin-left: 20px;
     margin-right: 20px;
     text-align: left;
+      
   }
 
   .content-p,
   .core-values-list {
     font-size: 15px;
     line-height: 22px;
+    text-align: justify;
+    text-justify: inter-word;
   }
 }
 
@@ -909,6 +912,7 @@ strong {
     line-height: 10px;
 
   }
+
 
 
 
